@@ -1,0 +1,15 @@
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\bin\Debug\net6.0\Iniciando_estudo.NET.exe
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\bin\Debug\net6.0\Iniciando_estudo.NET.deps.json
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\bin\Debug\net6.0\Iniciando_estudo.NET.runtimeconfig.json
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\bin\Debug\net6.0\Iniciando_estudo.NET.dll
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\bin\Debug\net6.0\Iniciando_estudo.NET.pdb
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.csproj.AssemblyReference.cache
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.AssemblyInfoInputs.cache
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.AssemblyInfo.cs
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.csproj.CoreCompileInputs.cache
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.dll
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\refint\Iniciando_estudo.NET.dll
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.pdb
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\Iniciando_estudo.NET.genruntimeconfig.cache
+C:\Users\laiso\OneDrive\Área de Trabalho\Iniciando_estudo.NET\obj\Debug\net6.0\ref\Iniciando_estudo.NET.dll
